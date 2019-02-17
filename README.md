@@ -13,4 +13,16 @@ WikiGenomes empowers the individual genomic researcher to contribute their exper
 to the curation effort and integrates the knowledge into Wikidata, enabling it to be accessed by anyone without restriction.
 
 ##For more details visit - 
+
 https://pdfs.semanticscholar.org/f620/f8e3b5725eb0360ed5ea3fc06a510fc95bc6.pdf?_ga=2.8400053.1272522377.1550382942-385819771.1550382942
+
+
+Here, we describe WikiGenomes (www.wikigenomes.
+org), the first domain-specific application built on
+Wikidata, tailored to the needs of biomedical researchers.
+WikiGenomes is a Web application that is designed and
+built to allow the genomic researcher to contribute to
+curating the knowledge they are discovering. It facilitates
+both the consumption and community curation of genomic
+data in Wikidata, extending the reach of the biocuration
+effort deeper into the long tail of sequenced genomes
