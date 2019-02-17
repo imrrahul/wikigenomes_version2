@@ -1,4 +1,6 @@
 # wikigenomes_version2
+Wikidata is a recently developed project of the
+Wikimedia Foundation 
 New Layout and design, built on AngularJs
 I have forked this repository from Putmantime https://github.com/putmantime/wikigenomes_version2 as it is very useful for those researchers who are
 working on Biological research projects such gene-sequencing. This project can be accessed at http://wikigenomes.org/ and Can be used for downloaded annotated dataset for various organisms and diseases dataset.
