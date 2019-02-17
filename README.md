@@ -9,3 +9,6 @@ scientific community. WikiGenomes is based on Wikidata, an openly editable knowl
 graph with the goal of aggregating published knowledge into a free and open database.
 WikiGenomes empowers the individual genomic researcher to contribute their expertise
 to the curation effort and integrates the knowledge into Wikidata, enabling it to be accessed by anyone without restriction.
+
+##For more details visit - 
+https://pdfs.semanticscholar.org/f620/f8e3b5725eb0360ed5ea3fc06a510fc95bc6.pdf?_ga=2.8400053.1272522377.1550382942-385819771.1550382942
